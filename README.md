@@ -1,10 +1,11 @@
+Proyecto Gestión Empleados y Usuarios
 Proyecto Final de Programación en Java, usando el Modelo, Vista, Controlador. Aplicación con Interfaz Gráfica de Gestión de Empleados y Usuarios.
+Carlos García Acevedo
 
-LOGIN:
+LOGIN
 El usuario puede iniciar sesión, registrarse o restablecer su contraseña . Si pulsa en restablecer contraseña debe introducir su correo, y si está en la Base de datos automáticamente genera una nueva clave, introduce cifrada en la Base de datos y se la muestra al usuario.
- 
-HOME: Aparece el home del administrador o usuario, dependiendo del login.
-
+HOME
+Aparece el home del administrador o usuario, dependiendo del login.
 Home usuario: Puede ver una tabla con los turnos, sueldo, etc... Y puede realizar una búsqueda por código de empleado para buscar su ficha concreta. También cuenta con un botón para imprimir por impresora o PDF.
 
 Home administrador: Puede administrar a los usuarios y a los empleados.
